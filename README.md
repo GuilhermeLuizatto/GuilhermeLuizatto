@@ -1,6 +1,6 @@
 # Guilherme Luizatto
 
-**Desenvolvedor Full Stack Júnior · React, TypeScript e Node.js · Foco em C#/.NET**
+**Desenvolvedor Full Stack Júnior · React, TypeScript e Node.js**
 
 Bacharel em Sistemas de Informação pela UNISANTA. Desenvolvo aplicações web e busco oportunidades em desenvolvimento full stack e análise de sistemas.
 
@@ -35,7 +35,6 @@ O [Azis mantido por LariWerneck](https://github.com/LariWerneck/Azis) é uma ref
 ## Tecnologias
 
 - **Nos projetos em destaque:** React, TypeScript, JavaScript, Node.js, Express, Next.js, PostgreSQL, Firebase, Docker e Git.
-- **Foco de desenvolvimento:** C#, .NET e ASP.NET Core.
 - **Experiência web:** Astro, HTML e CSS.
 - **Formação acadêmica:** projetos Android em Kotlin.
 
